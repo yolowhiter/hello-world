@@ -1,2 +1,7 @@
-# hello-world
-此存储库用于练习 GitHub 流
+#include <bits/stdc++.h>
+using namespace std;
+
+int main(){
+  cout<<"hello world!";  
+  return 0;
+}
